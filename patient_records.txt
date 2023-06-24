@@ -1,0 +1,8 @@
+   KARIM UDDIN
+   |35| MALE | HEART
+   SAGIR ALI
+   |30| MALE | 65
+rakib
+|20|male|fever
+sabbir
+|20|male|fever
